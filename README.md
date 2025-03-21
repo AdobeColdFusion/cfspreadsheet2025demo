@@ -12,3 +12,4 @@ Notes:
 - The search does a substring search of each array position.
 - Most of the pages are making multiple calls to the CSVs they are viewing/editing. There are ERs in place to potentially improve this, but my solutions work.
 - If you find a bug or improvement to the functionality here, please do a PR after testing that it works in all environments.
+- Please make sure you have the spreadsheet package installed
